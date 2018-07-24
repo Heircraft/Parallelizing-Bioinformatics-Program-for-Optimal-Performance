@@ -1,0 +1,5 @@
+﻿  improved.cpp
+c:\users\alexander\dropbox\alexander\qut\cab401\assignment\401_assignment\401_assignment\improved.cpp(277): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'time_t'
+  c:\users\alexander\dropbox\alexander\qut\cab401\assignment\401_assignment\401_assignment\improved.cpp(277): note: consider using '%lld' in the format string
+  c:\users\alexander\dropbox\alexander\qut\cab401\assignment\401_assignment\401_assignment\improved.cpp(277): note: consider using '%I64d' in the format string
+  401_Assignment.vcxproj -> C:\Users\Alexander\Dropbox\Alexander\QUT\CAB401\Assignment\401_Assignment\Debug\401_Assignment.exe

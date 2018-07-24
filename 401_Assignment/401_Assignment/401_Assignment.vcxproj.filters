@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="improvedParallelized.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="list.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="AcMNPV.faa">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="AdhoNPV.faa">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="AdorGV.faa">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="AIHV_1.faa">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="AMEV.faa">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="APMiV.faa">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ASFV.faa">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="AsGV.faa">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="AtHV_3.faa">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ATV.faa">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="BAdV_4.faa">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="BAdV_A.faa">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="BAdV_B.faa">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="BmNPV.faa">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="BoHV_1.faa">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="BoHV_4.faa">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="BoHV_5.faa">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="BPSV.faa">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="CAdV.faa">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="CalHV_3.faa">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="CcBV.faa">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="CeHV_1.faa">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="CeHV_2.faa">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="CeHV_8.faa">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="CeHV_15.faa">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="CeHV_17.faa">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="CfDeFNPV.faa">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="CfMNPV.faa">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="CHV_7.faa">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="CMLV.faa">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="CNPV.faa">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="CpGV.faa">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="CPXV.faa">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="CrleGV.faa">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="CuniNPV.faa">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="DAdV_A.faa">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="DPV.faa">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ECTV.faa">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="EHV_1.faa">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="EHV_2.faa">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="EHV_4.faa">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>
